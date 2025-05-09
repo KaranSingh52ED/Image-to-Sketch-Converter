@@ -52,7 +52,7 @@ This application allows users to convert images into pencil sketch art. It featu
 
 1. Run the script:
    ```bash
-   python app.py
+   python app/app.py
    ```
 2. Click the "Open Image" button to load an image.
 3. Adjust the "Sketch Intensity" slider to change the pencil sketch effect.
